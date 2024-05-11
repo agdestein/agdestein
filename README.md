@@ -2,7 +2,7 @@
 
 Feel free to propagate your uncertainties.
 
-![](assets/vorticity.gif)
+https://github.com/agdestein/agdestein/assets/40632532/e3ac32eb-78c7-453d-8f78-af37f73e7e62
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agdestein&hide=Jupyter%20Notebook)](https://github.com/agdestein)
 
